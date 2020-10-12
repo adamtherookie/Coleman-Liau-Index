@@ -2,6 +2,14 @@
 Calculate the US reading grade level for any given text using the Coleman-Liau Index.
 
 ## Use
+First, clone this repo
+```bash
+git clone https://github.com/aa2006/Coleman-Liau-Index/
+```
+Then, navigate into the Coleman-Liau-Index directory
+```bash
+cd Coleman-Liau-Index
+```
 Compile the program using gcc for C and g++ for C++
 ```bash
 gcc readability.c -o readability
@@ -26,9 +34,9 @@ First, clone this repo
 ```bash
 git clone https://github.com/aa2006/Coleman-Liau-Index/
 ```
-Then, navigate into the Coleman-Liau-Index
+Then, navigate into the Coleman-Liau-Index directory
 ```bash
 cd Coleman-Liau-Index
 ```
 Open up the readability file, and unleash your creativity!
-If you want to merge yuor changes, just make a pull request.
+If you want to merge your changes, just make a pull request.
